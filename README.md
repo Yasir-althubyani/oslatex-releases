@@ -1,7 +1,6 @@
 # OsLatex
 
 **A LaTeX editor for Windows that compiles with a real LaTeX engine on your own PC, with live collaboration.**
-**محرر LaTeX لنظام ويندوز يكمبايل باستخدام محرك LaTeX حقيقي على جهازك الشخصي، مع ميزة العمل الجماعي المباشر.**
 
 **[⬇ Download OsLatex.exe (latest version)](https://github.com/Yasir-althubyani/oslatex-releases/releases/latest)**
 **[⬇ تحميل OsLatex.exe (أحدث إصدار)](https://github.com/Yasir-althubyani/oslatex-releases/releases/latest)**
