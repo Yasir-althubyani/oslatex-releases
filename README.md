@@ -1,10 +1,10 @@
 # OsLatex
 
-**A LaTeX editor for Windows that compiles with real TeX Live on your own PC, with live collaboration like Overleaf.**
+**A LaTeX editor for Windows that compiles with real TeX Live on your own PC, with live collaboration.**
 
 **[⬇ Download OsLatex.exe (latest version)](https://github.com/Yasir-althubyani/oslatex-releases/releases/latest)**
 
-> **بالعربي:** OsLatex برنامج لكتابة LaTeX على ويندوز. يكمبايل بـTeX Live الحقيقي على جهازك، وتقدر تشتغل فيه مع خوياك على نفس المشروع لايف مثل Overleaf. وكل ملفاتك تظل عندك، بدون حدود وقت كمبايل، وبدون اشتراك. ويدعم العربي بالكامل.
+> **بالعربي:** OsLatex برنامج لكتابة LaTeX على ويندوز. يكمبايل بـTeX Live الحقيقي على جهازك، وتقدر تشتغل فيه مع خوياك على نفس المشروع لايف. وكل ملفاتك تظل عندك، بدون حدود وقت كمبايل، وبدون اشتراك. ويدعم العربي بالكامل.
 
 ---
 
@@ -46,7 +46,7 @@
 - **Safe:** compiles run in a sandbox that can't read your other files, run programs or use the internet.
 
 ### Working together / الشغل الجماعي
-- **Live co-editing** like Overleaf: everyone types in the same project at once, and edits merge without conflicts.
+- **Live co-editing:** everyone types in the same project at once, and edits merge without conflicts.
 - **See each other:** coloured cursors with names, who is in which file, and **Follow** mode.
 - **Comments:** select text and leave a note; friends reply and resolve it.
 - **Chat** inside the project, plus one shared PDF that updates for everyone.
