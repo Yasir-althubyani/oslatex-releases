@@ -47,7 +47,7 @@ OsLatex يكمبايل على جهازك، وتقدر تشتغل فيه مع خ�
 | | **OsLatex** | Online editors · المحررات السحابية |
 |---|:---:|:---:|
 | **Where your files are** · مكان ملفاتك | **On your PC** · على جهازك | On someone's server · على سيرفرات شخص آخر |
-| ⏱**Compile time limit** · حد وقت الكمبايل | **None**, even for a 100+ page thesis · لا يوجد حد | Free plans time out on big documents · الخطط المجانية تنتهي مهلتها |
+| **Compile time limit** · حد وقت الكمبايل | **None**, even for a 100+ page thesis · لا يوجد حد | Free plans time out on big documents · الخطط المجانية تنتهي مهلتها |
 | **Works offline** · بدون إنترنت | **Yes**, after the one-time setup · نعم | No · لا |
 | **Live collaboration** · العمل الجماعي | **Free**, through your own PC · مجاناً | Often a paid plan · غالباً مدفوع |
 | **AI that edits and compiles** · ذكاء اصطناعي يعدل ويكمبايل | **Claude, Cursor, local models** | Rarely · نادراً |
