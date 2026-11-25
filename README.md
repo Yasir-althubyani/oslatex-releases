@@ -25,7 +25,7 @@
 
 OsLatex compiles on your machine, lets you work on the same project live with friends, and can let an AI assistant fix your errors. All your files stay local: no compile time limits, no subscriptions, and full Arabic support.
 
-**[⬇ Download OsLatex.exe (latest version)](https://github.com/Yasir-althubyani/oslatex-releases/releases/latest)**
+**[Download OsLatex.exe (latest version)](https://github.com/Yasir-althubyani/oslatex-releases/releases/latest)**
 
 </td>
 <td width="50%" valign="top" dir="rtl" align="right">
@@ -34,7 +34,7 @@ OsLatex compiles on your machine, lets you work on the same project live with fr
 
 OsLatex يكمبايل على جهازك، وتقدر تشتغل فيه مع خوياك على نفس المشروع لايف، وتقدر تخلي الذكاء الاصطناعي يصلح أخطاءك. كل ملفاتك تظل عندك، بدون حدود وقت كمبايل، وبدون اشتراك، ويدعم العربي بالكامل.
 
-**[⬇ تحميل OsLatex.exe (أحدث إصدار)](https://github.com/Yasir-althubyani/oslatex-releases/releases/latest)**
+**[تحميل OsLatex.exe (أحدث إصدار)](https://github.com/Yasir-althubyani/oslatex-releases/releases/latest)**
 
 </td>
 </tr>
@@ -42,23 +42,23 @@ OsLatex يكمبايل على جهازك، وتقدر تشتغل فيه مع خ�
 
 ---
 
-## ✨ Why OsLatex? · ليش OsLatex؟
+## Why OsLatex? · ليش OsLatex؟
 
 | | **OsLatex** | Online editors · المحررات السحابية |
 |---|:---:|:---:|
-| 📁 **Where your files are** · مكان ملفاتك | **On your PC** · على جهازك | On someone's server · على سيرفرات شخص آخر |
-| ⏱️ **Compile time limit** · حد وقت الكمبايل | **None**, even for a 100+ page thesis · لا يوجد حد | Free plans time out on big documents · الخطط المجانية تنتهي مهلتها |
-| 📴 **Works offline** · بدون إنترنت | **Yes**, after the one-time setup · نعم | No · لا |
-| 👥 **Live collaboration** · العمل الجماعي | **Free**, through your own PC · مجاناً | Often a paid plan · غالباً مدفوع |
-| 🤖 **AI that edits and compiles** · ذكاء اصطناعي يعدل ويكمبايل | **Claude, Cursor, local models** | Rarely · نادراً |
-| 🌐 **Arabic** · اللغة العربية | **Built in** (XeLaTeX + Amiri, RTL) · مدعومة من البداية | Depends on setup · تعتمد على الإعدادات |
-| 💰 **Price** · السعر | **Free** · مجاني | Free plans with limits · خطط مجانية بحدود |
+| **Where your files are** · مكان ملفاتك | **On your PC** · على جهازك | On someone's server · على سيرفرات شخص آخر |
+| ⏱**Compile time limit** · حد وقت الكمبايل | **None**, even for a 100+ page thesis · لا يوجد حد | Free plans time out on big documents · الخطط المجانية تنتهي مهلتها |
+| **Works offline** · بدون إنترنت | **Yes**, after the one-time setup · نعم | No · لا |
+| **Live collaboration** · العمل الجماعي | **Free**, through your own PC · مجاناً | Often a paid plan · غالباً مدفوع |
+| **AI that edits and compiles** · ذكاء اصطناعي يعدل ويكمبايل | **Claude, Cursor, local models** | Rarely · نادراً |
+| **Arabic** · اللغة العربية | **Built in** (XeLaTeX + Amiri, RTL) · مدعومة من البداية | Depends on setup · تعتمد على الإعدادات |
+| **Price** · السعر | **Free** · مجاني | Free plans with limits · خطط مجانية بحدود |
 
 ---
 
-## 🚀 Features · المزايا
+## Features · المزايا
 
-### ✍️ Writing · الكتابة
+### Writing · الكتابة
 
 <table>
 <tr>
@@ -85,7 +85,7 @@ OsLatex يكمبايل على جهازك، وتقدر تشتغل فيه مع خ�
 </tr>
 </table>
 
-### ⚙️ Compiling · الكمبايل
+### Compiling · الكمبايل
 
 <table>
 <tr>
@@ -112,7 +112,7 @@ OsLatex يكمبايل على جهازك، وتقدر تشتغل فيه مع خ�
 </tr>
 </table>
 
-### 👥 Working together · الشغل الجماعي
+### Working together · الشغل الجماعي
 
 <table>
 <tr>
@@ -137,7 +137,7 @@ OsLatex يكمبايل على جهازك، وتقدر تشتغل فيه مع خ�
 </tr>
 </table>
 
-### 🤖 AI assistants · الذكاء الاصطناعي <sup>new · جديد</sup>
+### AI assistants · الذكاء الاصطناعي <sup>new · جديد</sup>
 
 <table>
 <tr>
@@ -173,7 +173,7 @@ Add 10.48550/arXiv.1706.03762 to my references and cite it in the introduction.
 Answer the open comments in the Arabic report.
 ```
 
-### 🛟 Safety net · الأمان
+### Safety net · الأمان
 
 <table>
 <tr>
@@ -198,7 +198,7 @@ Answer the open comments in the Arabic report.
 
 ---
 
-## 🌐 Arabic, from the first line · العربي من أول سطر
+## Arabic, from the first line · العربي من أول سطر
 
 <p align="center">
   <img src="docs/arabic.png" alt="An Arabic document in OsLatex: XeLaTeX with the Amiri font, right to left" width="92%">
@@ -206,7 +206,7 @@ Answer the open comments in the Arabic report.
 
 ---
 
-## 📥 Install · التثبيت
+## Install · التثبيت
 
 <table>
 <tr>
