@@ -51,7 +51,7 @@ OsLatex يكمبايل على جهازك، وتقدر تشتغل فيه مع خ�
 | 📴 **Works offline** · بدون إنترنت | **Yes**, after the one-time setup · نعم | No · لا |
 | 👥 **Live collaboration** · العمل الجماعي | **Free**, through your own PC · مجاناً | Often a paid plan · غالباً مدفوع |
 | 🤖 **AI that edits and compiles** · ذكاء اصطناعي يعدل ويكمبايل | **Claude, Cursor, local models** | Rarely · نادراً |
-| 🇸🇦 **Arabic** · اللغة العربية | **Built in** (XeLaTeX + Amiri, RTL) · مدعومة من البداية | Depends on setup · تعتمد على الإعدادات |
+| 🌐 **Arabic** · اللغة العربية | **Built in** (XeLaTeX + Amiri, RTL) · مدعومة من البداية | Depends on setup · تعتمد على الإعدادات |
 | 💰 **Price** · السعر | **Free** · مجاني | Free plans with limits · خطط مجانية بحدود |
 
 ---
@@ -198,7 +198,7 @@ Answer the open comments in the Arabic report.
 
 ---
 
-## 🇸🇦 Arabic, from the first line · العربي من أول سطر
+## 🌐 Arabic, from the first line · العربي من أول سطر
 
 <p align="center">
   <img src="docs/arabic.png" alt="An Arabic document in OsLatex: XeLaTeX with the Amiri font, right to left" width="92%">
